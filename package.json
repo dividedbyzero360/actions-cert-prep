@@ -1,0 +1,15 @@
+{
+  "name": "actions-cert-prep",
+  "version": "1.0.0",
+  "description": "A sample node app to try out github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo npm test",
+    "build": "echo npm build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
